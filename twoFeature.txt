@@ -1,1 +1,3 @@
 Inserting second file for payment feature
+/* Samsung payment updates */
+Added Samsung pay 
