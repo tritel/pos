@@ -1,1 +1,3 @@
 Added NFC feature new first file
+
+Trying to insert updates from Git Client and check the poll SCM build in Jenkins
